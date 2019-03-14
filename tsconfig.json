@@ -19,7 +19,7 @@
         "noUnusedLocals": true
     },
     "include": [],
-    "exc lude": [
+    "exclude": [
         "node_modules",
         "build",
         "dist",

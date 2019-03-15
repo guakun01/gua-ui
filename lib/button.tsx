@@ -1,3 +1,5 @@
+import React from 'react';
+
 function Button() {
     return (
         <div>
@@ -6,4 +8,4 @@ function Button() {
     )
 }
 
-export default Button
+export default Button;
